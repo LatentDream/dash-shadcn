@@ -1,0 +1,11 @@
+include dash_shadcn/dash_shadcn.min.js
+include dash_shadcn/dash_shadcn.min.js.map
+include dash_shadcn/async-*.js
+include dash_shadcn/async-*.js.map
+include dash_shadcn/*-shared.js
+include dash_shadcn/*-shared.js.map
+include dash_shadcn/metadata.json
+include dash_shadcn/package-info.json
+include README.md
+include LICENSE
+include package.json
